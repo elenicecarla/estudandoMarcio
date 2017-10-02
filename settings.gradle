@@ -1,0 +1,1 @@
+include "rest-api", "rest-core", "rest-ear", "rest-war"
